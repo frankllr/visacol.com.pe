@@ -42,7 +42,7 @@
                                     </div>
                                     <ul class="list list-icons list-icons-style-2 mt-4">
                                         <li><i class="fas fa-map-marker-alt top-6"></i> <strong class="text-dark">Dirección :</strong><a class="text-dark"> #1098, Alfonso Ugarte - Chiclayo</a> </li>
-                                        <li><i class="fas fa-phone top-6"></i> <strong class="text-dark">Telefono :</strong><a class="text-dark"> (074) 227 693 - 922 290 905</a> </li>
+                                        <li><i class="fas fa-phone top-6"></i> <strong class="text-dark">Telefono :</strong><a class="text-dark"> (074) 227 693 - 954 986 955</a> </li>
                                         <li><i class="fas fa-envelope top-6"></i> <strong class="text-dark">Email :</strong> <a class="text-dark"> informes@visacol.com</a></li>
                                         <li><i class="fas fa-clock top-6"></i> <strong class="text-dark">Horario :</strong> <a class="text-dark"> Lunes - Sabado / 8:00 - 1:30pm</a></li>
                                     </ul>

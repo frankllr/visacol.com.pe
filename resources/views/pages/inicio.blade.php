@@ -120,32 +120,38 @@
             <div class="col">
                 <h3 class="font-weight-bold text-center">TENEMOS LAS MEJORES OFERTAS PARA TI</h3>
                 <div class="lightbox" data-plugin-options="{'delegate': 'a', 'type': 'image', 'gallery': {'enabled': true}, 'mainClass': 'mfp-with-zoom', 'zoom': {'enabled': true, 'duration': 300}}">
-                    <div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 4, 'margin': 10, 'loop': false, 'nav': true, 'dots': false, 'stagePadding': 40}" data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 1}, '768': {'items': 5}, '992': {'items': 7}, '1200': {'items': 7}}, 'autoplay': true, 'autoplayTimeout': 3000, 'dots': false}">
+                    <div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 4, 'margin': 10, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40,'autoplay': true, 'autoplayTimeout': 3000}">
                         <div>
-                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon" href="{{asset('img/ofertas/oferta-1.png')}}">
+                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon"
+                                href="{{asset('img/ofertas/oferta-1.png')}}">
                                 <img class="img-fluid" src="{{asset('img/ofertas/oferta-1.png')}}" alt="Project Image">
                             </a>
                         </div>
                         <div>
-                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon" href="{{asset('img/ofertas/oferta-2.png')}}">
+                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon"
+                                href="{{asset('img/ofertas/oferta-2.png')}}">
                                 <img class="img-fluid" src="{{asset('img/ofertas/oferta-2.png')}}" alt="Project Image">
                             </a>
                         </div>
                         <div>
-                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon" href="{{asset('img/ofertas/oferta-3.png')}}">
+                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon"
+                                href="{{asset('img/ofertas/oferta-3.png')}}">
                                 <img class="img-fluid" src="{{asset('img/ofertas/oferta-3.png')}}" alt="Project Image">
                             </a>
                         </div>
                         <div>
-                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon" href="{{asset('img/ofertas/oferta-4.png')}}">
+                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon"
+                                href="{{asset('img/ofertas/oferta-4.png')}}">
                                 <img class="img-fluid" src="{{asset('img/ofertas/oferta-4.png')}}" alt="Project Image">
                             </a>
                         </div>
                         <div>
-                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon" href="{{asset('img/ofertas/oferta-5.png')}}">
+                            <a class="img-thumbnail img-thumbnail-no-borders img-thumbnail-hover-icon"
+                                href="{{asset('img/ofertas/oferta-5.png')}}">
                                 <img class="img-fluid" src="{{asset('img/ofertas/oferta-5.png')}}" alt="Project Image">
                             </a>
                         </div>
+
                     </div>
                 </div>
             </div>

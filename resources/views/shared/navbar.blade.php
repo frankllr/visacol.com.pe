@@ -14,8 +14,8 @@
                                         </a>
                                     </li>
                                     <li class="nav-item nav-item-borders  d-none d-lg-inline-flex">
-                                        <a class=" text-color-light" href="tel:+51922290905">
-                                            <i class="fab fa-whatsapp text-4 " style="top: 0;"></i> 922 290 905
+                                        <a class=" text-color-light" href="tel:+51954986955">
+                                            <i class="fab fa-whatsapp text-4 " style="top: 0;"></i> 954 986 955
                                             - (074) 227693
                                         </a>
                                     </li>

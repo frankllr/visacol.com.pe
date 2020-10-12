@@ -19,7 +19,7 @@ class MessagesController extends Controller{
         ),
             'phone' => array(
                 'required',
-                'regex:/(^\d{7,14}$)/'
+                'regex:/(^\d{9,9}$)/'
         ),
             'department' => array(
                 'required',

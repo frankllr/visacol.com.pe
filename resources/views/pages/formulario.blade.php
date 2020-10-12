@@ -24,7 +24,7 @@
     <div class="form-group row">
         <label class="col-lg-3 font-weight-bold text-dark col-form-label form-control-label text-2 required">Ciudad</label>
         <div class="col-lg-9 @if($errors -> first('city')) has-danger @endif">
-        <input class="form-control @if($errors -> first('city')) is-invalid @endif" required type="text" id="department" name="department" value="{{old('department')}}">
+        <input class="form-control @if($errors -> first('department')) is-invalid @endif" required type="text" id="department" name="department" value="{{old('department')}}">
             {!! $errors -> first('city', "<label id:'department-error' class='error' for='department'>:message</label>") !!}
         </div>
     </div>
