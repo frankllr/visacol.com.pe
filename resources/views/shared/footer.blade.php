@@ -9,7 +9,7 @@
                 <a class="text-8 text-color-light font-weight-bold" href="tel:+51074227693">(074) 227 693</a>
                 <ul class="list list-icons list-icons-lg">
                     <li class="mb-0">
-                        <a class="text-4 m-0 text-light" href="tel:+51922290905">Cel : 922 290 905 </a>
+                        <a class="text-4 m-0 text-light" href="tel:+51954986955">Cel : 954 986 955 </a>
                     </li>
                     <li class="mb-0">
                         <p class=" text-4 m-0 text-light"> #1098 Alfonso Ugarte, Chiclayo </p>
